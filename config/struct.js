@@ -6,7 +6,7 @@ module.exports = {
     },
     src: {
 			root: 'src',
-			js: 'src/js',
+			js: 'src/app',
 			sass: 'src/sass'
 		}
 };
